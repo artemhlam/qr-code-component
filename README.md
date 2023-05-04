@@ -4,7 +4,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
@@ -13,9 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-- PC ![desktop-screenshot](https://user-images.githubusercontent.com/132589158/236272602-ebb20834-4287-43c0-b1cd-6ebb4afb9736.png)
-- Mobile ![mobile-screenshot](https://user-images.githubusercontent.com/132589158/236273609-126c5b4d-c78c-48ed-b710-659f6ee00bb1.png)
-
+![mobile-screenshot](https://user-images.githubusercontent.com/132589158/236274357-7692a2c4-ed0e-47d9-92c6-2e06ecddbac8.jpg) 
 
 ### Links
 Solution: [https://artemhlam.github.io/qr-code-component/](https://artemhlam.github.io/qr-code-component/)
